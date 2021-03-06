@@ -7,7 +7,8 @@ CONFIG_FILES = [
         r".config/i3status",
         r".config/termite",
         r".Xresources",
-        r".config/rofi"
+        r".config/rofi",
+        r".bashrc"
         ]
 
 
